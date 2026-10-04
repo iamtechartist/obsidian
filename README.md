@@ -1,3 +1,3 @@
-Break a stone and what's inside? A cathedral. Break the cathedral? A whale. Break the whale and you're holding the stone again. 32,000 shards, one endless loop, all procedural Three.js.
+Lavoisier was right: nothing is lost, nothing is created, everything is transformed. So I made it visible: one monolith, 32,000 shards, a cathedral, a whale and back again, all procedural Three.js.
 
 Live demo: https://iamtechartist.github.io/obsidian/
